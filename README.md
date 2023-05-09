@@ -1,2 +1,2 @@
 # catcher-gymnasium
-Environment for Catcher game with just gymnasium library
+Environment for Catcher game using gymnasium library
